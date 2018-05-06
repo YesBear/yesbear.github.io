@@ -1,12 +1,74 @@
 # Setup
-name:         Project or Site name (Architect Theme)
-tagline:      A responsive theme for your project on GitHub Pages
+name:         What's the bear think about...
+tagline:      
+email:        xlhofs@outlook.com
+description:  "一生懸命"
+keyword:      "c++,opencv,计算机视觉,qt"
+url:          "https://yesbear.github.io"
 baseurl:      ""
-locale:       "en"
+locale:       "cn"
+github_repo:  "https://github.com/yesbear/yesbear.github.io.git"
+
+#Sidebar settings
+sidebar:      true
+sidebar-about-description: "bug小能手"
+sidebar-avatar: /imges/avatar-me.jpg
+
+#SNS settings
+RSS:          false
+github_usrname: yesbear
+
+#Build settings
+# permalink:  pertty
+# paginate:   10
+# exclude:    ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
+# achorjs:    true
 
 # Gems
 gems:
   - jekyll-paginate
 
+#Markdown settings
+markdown:     kramdown
+highlighter:  rouge
+kramdown:     
+  input:      GFM
+
 #Others
-markdown: kramdown
+
+# 评论系统
+# Gitalk
+# gitalk:
+#   enable:   true
+#   clientID: 
+#   clientSecret:
+#   repo:     yesbear.github.io
+#   owner:    yesbear
+#   admin:    bear
+#   distractionFreeMode:  true #是否启用类似FB的阴影遮罩
+
+# 统计网站流量数据
+# Google Analytics
+# ga_track_id: ''
+# ga_domain:    auto
+
+# Featured Tags
+featured-tags:  true
+featured-condition-size:  1
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker:  true
+
+# Friends
+friends: {
+  {
+      title:  "OpenCV"
+      href:   "https://opencv.org"
+  },
+  {
+      title:  "OpenCV中文教程"
+      href:   "http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html"
+  }
+
+}
