@@ -1,11 +1,11 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://yesbear.github.io
+baseurl: ""
+url: "https://yesbear.github.io"
 date_format: "ordinal"
 title: 贝尔的记事本
-subtitle: "Coding life, life's codes""
+subtitle: "Coding life, life's codes"
 description: "小码农的自耕田"
 keywords: code,life
 timezone: Asia/Shanghai
