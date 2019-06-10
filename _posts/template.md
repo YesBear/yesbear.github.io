@@ -1,8 +1,7 @@
 ---
 layout: post
-title: template page
-data: - -
-categories: [cate1, cate2]
+title: ""
+data: --
+categories: 
 ---
 
-Content here
