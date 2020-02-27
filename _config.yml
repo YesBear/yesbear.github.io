@@ -102,10 +102,10 @@ gitment:
         client_secret: 925b036efb77911eb7e9ebb6f5516f3d1ac52263
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: YesBear
-    repo: blog-comments
-    clientID: d770822e43f38438ae2e
-    clientSecret: b925b036efb77911eb7e9ebb6f5516f3d1ac52263
+    owner: 'YesBear'
+    repo: 'blog-comments'
+    clientID: 'd770822e43f38438ae2e'
+    clientSecret: 'b925b036efb77911eb7e9ebb6f5516f3d1ac52263'
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
