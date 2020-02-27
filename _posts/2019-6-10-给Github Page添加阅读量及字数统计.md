@@ -26,5 +26,5 @@ categories: 前端
 
 完成上述，即可实现以下效果
 
-![图1](https://yesbear.github.io/images/blog/给Github Page添加阅读量及字数统计/图1.PNG)
+![图1](https://yesbear.github.io/images/blog/给Github_Page添加阅读量及字数统计/图1.PNG)
 
